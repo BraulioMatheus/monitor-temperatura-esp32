@@ -28,7 +28,7 @@ Projetar e representar a arquitetura de hardware de um sistema embarcado capaz d
 
 ## 🔌 Diagrama em Blocos
 
-![Diagrama do Sistema](https://endereco-da-imagem.com/diagrama.png](https://raw.githubusercontent.com/BraulioMatheus/monitor-temperatura-esp32/refs/heads/main/Diagrama%20de%20Blocos%20Sist%20Emb.png)
+![Diagrama do Sistema](https://raw.githubusercontent.com/BraulioMatheus/monitor-temperatura-esp32/refs/heads/main/Diagrama%20de%20Blocos%20Sist%20Emb.png)
 
 **Sinais principais:**
 - `ADCx` → Entrada analógica do sensor LM35 para o ESP32.  
