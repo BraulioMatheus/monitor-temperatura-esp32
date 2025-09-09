@@ -28,7 +28,7 @@ Projetar e representar a arquitetura de hardware de um sistema embarcado capaz d
 
 ## 🔌 Diagrama em Blocos
 
-![Diagrama do Sistema](diagramas/diagrama-blocos.png)
+![Diagrama do Sistema](Diagrama de Blocos Sist Emb.png)
 
 **Sinais principais:**
 - `ADCx` → Entrada analógica do sensor LM35 para o ESP32.  
